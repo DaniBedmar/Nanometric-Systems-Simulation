@@ -4,7 +4,7 @@ to the software Visual Molecular Dynamics [https://www.ks.uiuc.edu/Research/vmd/
 a software to visualize and analyze large biomoelcular systems and molecular dynamics simulations.
 
 Therefore, we were tasked to chose between modifying a code that integrated Newton's laws or
-trying to identify a pdf file with VMD without any information. I chose this last option.
+trying to solve a [problema pdb](https://github.com/DaniBedmar/Nanometric-Systems-Simulation/blob/main/Project_04_Solving_a_pdb_file/pdb_files/problema.pdb) file with VMD  but without any information. I chose this last option.
 
 
 #### Notes
