@@ -1,22 +1,15 @@
 # Project 04
-In the classes previous of this project we were introduced to Molecular Dynamics and 
-to the software Visual Molecular Dynamics [https://www.ks.uiuc.edu/Research/vmd/](VMD), 
-a software to visualize and analyze large biomoelcular systems and molecular dynamics simulations.
 
-Therefore, we were tasked to chose between modifying a code that integrated Newton's laws or
-trying to solve a [problema pdb](https://github.com/DaniBedmar/Nanometric-Systems-Simulation/blob/main/Project_04_Solving_a_pdb_file/pdb_files/problema.pdb) file with VMD  but without any information. I chose this last option.
+In the classes prior to this project, we were introduced to Molecular Dynamics and to the software [Visual Molecular Dynamics](https://www.ks.uiuc.edu/Research/vmd/) (VMD), a tool for visualizing and analyzing large biomolecular systems and molecular dynamics simulations.
 
+Therefore, we were tasked with choosing between modifying a code that integrated Newton's laws or attempting to solve a [pdb problema](https://github.com/DaniBedmar/Nanometric-Systems-Simulation/blob/main/Project_04_Solving_a_pdb_file/pdb_files/problema.pdb) file with VMD but without any information. I chose the latter option.
 
 #### Notes
-Doing this project was one of the most satisfactory (in a scientific way) I did in all my degree, 
-as I was forced to follow a deduction system using knowledge from different subjects I coursed while
-studying my degree as I learned to use this new software and, altough I wasn't able to identify one
-of the structures correctly (it was the "remdesivir" drug which inhibits the RNA replication) I was
-able to correctly identify the complex and what biological porocess was being representated.
+Completing this project was one of the most satisfying experiences (from a scientific perspective) I had during my entire degree. I was required to follow a deduction system using knowledge from different subjects I studied during my degree while learning to use this new software. Although I wasn't able to correctly identify one of the structures (it was the "remdesivir" drug, which inhibits RNA replication), I was able to correctly identify the complex and the biological process it represented.
 
-As you can see, the report is presented as a power point, this was a decision I took in order to show
-the deduction process followed in a more linear way.
+The actual correction given by Professor Jordi faraudo was: "Effectively, it is a trimeric protein doing something with a nucleic acid (in this case, RNA). The molecule you have identified that is neither nucleic acid nor protein is the drug remdesivir. In fact, it is the NSP12-NSP7-NSP8 complex of SARS-CoV-2 with RNA and the drug remdesivir that blocks viral RNA replication."
 
+As you can see, the report is presented as a PowerPoint. This decision was made in order to present the deduction process in a more linear manner.
 
 #### Files in the repository
 
@@ -24,6 +17,6 @@ the deduction process followed in a more linear way.
 
 - [Report4_SSN_Bedmar_Daniel.pdf](Report4_SSN_Bedmar_Daniel.pdf): The report I wrote.
 
-- [Report4_SSN_Bedmar_Daniel.pptx](Report4_SSN_Bedmar_Daniel.pptx): The report I wrote.
+- [Report4_SSN_Bedmar_Daniel.pptx](Report4_SSN_Bedmar_Daniel.pptx): The PowerPoint presentation I created.
 
-- [pdb files](pdb_files): Sub respository where all the pdb files, including the problema file and all the structures separated form each other.
+- [pdb files](pdb_files): Subrepository containing all the pdb files, including the problema file and all the structures separated from each other.
