@@ -7,7 +7,7 @@ and python. And had the objective of studying the effect of the temperature chan
 in [HomeWork.pdf](HomeWork.pdf).
 
 #### Files in the repository
-- [Report10_SSN_Bedmar_Daniel.pdf](Report10_SSN_Bedmar_Daniel.pdf): Report of this project.
+- [Report07_SSN_Bedmar_Daniel.pdf](Report07_SSN_Bedmar_Daniel.pdf): Report of this project.
 
 - [Simulation](Simulation): Sub repository containing all the scripts used and all the files generated during the simulation.
 
