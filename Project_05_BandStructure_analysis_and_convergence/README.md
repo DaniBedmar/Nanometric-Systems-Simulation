@@ -6,7 +6,7 @@ The task, which can be found in [task.md](task.md), aimed to perform energy conv
 
 #### Files in the repository
 
-- [Entrega_Lab8_Bedmar_Daniel.html](Entrega_Lab8_Bedmar_Daniel.html): The report for this project was created using a Jupyter Notebook. This format allows the reader to follow the report alongside the simulations to understand the process clearly. Therefore, by reading the HTML file, the report can be accessed without executing the cells of the notebook.
+- [Report_05_Bedmar_Daniel.htmll](Report_05_Bedmar_Daniel.html): The report for this project was created using a Jupyter Notebook. This format allows the reader to follow the report alongside the simulations to understand the process clearly. Therefore, by reading the HTML file, the report can be accessed without executing the cells of the notebook.
 
 - [task.md](task.md): File containing the proposed task.
 
