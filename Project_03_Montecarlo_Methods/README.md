@@ -6,8 +6,8 @@ I chose to implement a convergence method so the results aren't conditioned by t
 
 #### Files in the repository
 
-- [Assignment-MonteCarlo.pdf](Assignment-MonteCarlo.pdf): Proposed assignments.
+- [Assigment-MonteCarlo.pdf](Assigment-MonteCarlo.pdf): Proposed assignments.
 
 - [Report3_SSN_Bedmar_Daniel.pdf](Report3_SSN_Bedmar_Daniel.pdf): The report I wrote.
 
-- [ising_method_convergence.py](ising_method_convergence.py): The code I presented.
+- [isign_method_convergence.py](isign_method_convergence.py): The code I presented.
