@@ -1,6 +1,6 @@
 # Project 03
 
-In this project, we had to choose one of the proposed tasks related to a script for simulating the Ising model using Monte Carlo Methods. These tasks can be found in [Assignment-MonteCarlo.pdf](Assignment-MonteCarlo.pdf).
+In this project, we had to choose one of the proposed tasks related to a script for simulating the Ising model using Monte Carlo Methods. These tasks can be found in [Assigment-MonteCarlo.pdf](Assigment-MonteCarlo.pdf).
 
 I chose to implement a convergence method so the results aren't conditioned by the predefined number of steps.
 
