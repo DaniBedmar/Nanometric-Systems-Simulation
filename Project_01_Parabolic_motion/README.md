@@ -7,6 +7,6 @@ I chose the "parabolic_motion.py" script, in which the user can enter the launch
 #### Files in the repository
 - [Assigment_1.pdf](Assigment_1.pdf): The instructions that were given to complete this project
 
-- [Report1_SSN_Bedmar_Daniel.pdf](Report1_SSN_Bedmar_Daniel.pdf)`: The report I wrote.
+- [Report1_SSN_Bedmar_Daniel.pdf](Report1_SSN_Bedmar_Daniel.pdf): The report I wrote.
 
 - [parabolic_motion_with_explosion.py](parabolic_motion_with_explosion.py): The code I presented.
